@@ -1,0 +1,16 @@
+.Container {
+  width: 100vw;
+  height: 70vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.Divlogin {
+  width: 350px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
